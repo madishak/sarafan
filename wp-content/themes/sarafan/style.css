@@ -206,7 +206,7 @@ body {
   position: absolute;
   top: 9px;
   right: -14px;
-  background: transparent url("./images/search_sarafan.png") center no-repeat;
+  background: transparent url("https://madishak.github.io/sarafan/wp-content/themes/sarafan/images/search_sarafan.png") center no-repeat;
   width: 20px;
   height: 21px;
   border: none;
@@ -224,14 +224,14 @@ body {
 }
 
 .header__btn--hamburger {
-  background: transparent url(./images/humburger.png) center no-repeat;
+  background: transparent url(https://madishak.github.io/sarafan/wp-content/themes/sarafan/images/humburger.png) center no-repeat;
   width: 33px;
   height: 24px;
   border: none;
 }
 
 .header__btn--close {
-  background: transparent url(./images/close.png) center no-repeat;
+  background: transparent url(https://madishak.github.io/sarafan/wp-content/themes/sarafan/images/close.png) center no-repeat;
   width: 33px;
   height: 24px;
   border: none;
@@ -355,7 +355,7 @@ body {
 }
 
 .about__banner {
-  background: #6b7073 url("./images/banner.png") center no-repeat;
+  background: #6b7073 url("https://madishak.github.io/sarafan/wp-content/themes/sarafan/images/banner.png") center no-repeat;
   height: 637px;
   max-width: 1164px;
   width: 100%;
@@ -392,7 +392,7 @@ body {
 }
 
 .about__paragraph--file--img {
-  background: transparent url("./images/file_download.png") center no-repeat;
+  background: transparent url("https://madishak.github.io/sarafan/wp-content/themes/sarafan/images/file_download.png") center no-repeat;
   width: 32px;
   height: 32px;
 }
@@ -670,13 +670,13 @@ body {
 }
 
 .footer__icon--tg {
-  background: transparent url("./images/tg.png") center no-repeat;
+  background: transparent url("https://madishak.github.io/sarafan/wp-content/themes/sarafan/images/tg.png") center no-repeat;
   width: 37px;
   height: 37px;
 }
 
 .footer__icon--vk {
-  background: transparent url("./images/vk.png") center no-repeat;
+  background: transparent url("https://madishak.github.io/sarafan/wp-content/themes/sarafan/images/vk.png") center no-repeat;
   width: 37px;
   height: 37px;
 }
